@@ -1,0 +1,46 @@
+.root{
+     -fx-background-color:skyblue;
+}
+.button{
+    -fx-background-color:aquamarine;
+}
+.button:hover {
+    -fx-background-color: #2980b9;
+    -fx-cursor: hand; 
+    -fx-scale-x: 1.05; 
+    -fx-scale-y: 1.05;
+}
+.label{
+    -fx-font: normal bold 20px 'serif';
+ }
+.title{
+    -fx-font: normal bold 30px 'serif';
+ }
+ .p{
+    -fx-font: normal bold 30px 'serif';
+    -fx-background-color:darkseagreen; 
+ }
+ .sign{
+    -fx-font: normal bold 30px 'serif';
+ }
+ .but{
+    -fx-font: normal bold 30px 'serif';
+ }
+ .buto{
+     -fx-font: normal bold 30px 'serif';
+ }
+ .buton{
+     -fx-font: normal bold 30px 'serif';
+ }
+ .button1{
+      -fx-font: normal bold 30px 'serif'; 
+ }
+ .button2{
+     -fx-font: normal bold 35px 'serif'; 
+ }
+ .button3{
+       -fx-font: normal bold 40px 'serif'; 
+ }
+ .button4{
+       -fx-font: normal bold 45px 'serif'; 
+ }
